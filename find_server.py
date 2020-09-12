@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from flask import Flask, request
 from flask_apscheduler import APScheduler
 import time
